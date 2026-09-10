@@ -39,9 +39,7 @@
 
 ## 说明
 
-`interpolation=yes` 是 mpv 自带的 GPU display-resample 插帧，不是 AI RIFE。RIFE 需要单独安装 VapourSynth、模型和对应启动脚本，因此没有把本机绝对路径或 DLL 放入仓库。
-
-`watch_later/`、`cache/` 和 `danmaku-history.json` 属于本机状态，已通过 `.gitignore` 排除。仓库只保存可复用配置。
+`interpolation=yes` 是 mpv 自带的 GPU display-resample 插帧，不是 AI RIFE。RIFE 需要单独安装 VapourSynth、模型和对应启动脚本。
 
 ## 上游项目
 
