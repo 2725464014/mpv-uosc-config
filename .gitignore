@@ -1,7 +1,6 @@
 cache/
 watch_later/
 dan m aku-history.json
-dan m aku-history.json
 *.log
 *.pyc
 __pycache__/
