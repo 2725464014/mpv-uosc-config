@@ -1,0 +1,10 @@
+cache/
+watch_later/
+danmak u-history.json
+danmaku-history.json
+*.log
+*.pyc
+__pycache__/
+*.dll
+*.exe
+vs/*.pyc
