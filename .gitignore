@@ -1,9 +1,15 @@
 cache/
 watch_later/
-danmaku-history.json
+danmaku/*
+*.toml
+.*
 *.log
 *.pyc
 __pycache__/
 *.dll
 *.exe
 vs/*.pyc
+rife/vs-mlrt/
+rife/engines/
+vsmlrt/
+*.engine
